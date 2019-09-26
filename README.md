@@ -1,5 +1,8 @@
 # SNU Big Camp 2019
 
+### 금요일 강의 (그래프 그리기)
+- [데이터 시각화](https://colab.research.google.com/drive/1UFSnNbH3hfJAR-Rstx-DjlQEBAa43pgX)
+
 ---
 ## 지난 강의 자료
 
