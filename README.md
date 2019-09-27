@@ -2,6 +2,7 @@
 
 ### 금요일 강의 (그래프 그리기)
 - [데이터 시각화](https://colab.research.google.com/drive/1UFSnNbH3hfJAR-Rstx-DjlQEBAa43pgX)
+- [키노트 파일](https://github.com/jaehwan-dev/SNU_BIG_CAMP/raw/master/pdfs/190927_matplotlib.pdf)
 
 ---
 ## 지난 강의 자료
