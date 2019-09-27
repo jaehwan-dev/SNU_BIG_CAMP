@@ -6,6 +6,9 @@
 ---
 ## 지난 강의 자료
 
+### 월요일 강의 (Advanced Python)
+- [Advanced Python](https://github.com/jaehwan-dev/SNU_BIG_CAMP/raw/master/pdfs/190923_Intro.pdf)
+
 ### 화요일 강의 (데이터베이스)
 - [파이썬에서의 데이터베이스 활용](https://colab.research.google.com/drive/1xvw_RO-dqzOIKxdr7JbjBf7mXCAgb6oY)
 - [파이썬에서의 데이터베이스 활용-답안](https://colab.research.google.com/drive/1hy7jKfqBxA6EwqEOVGim9SKGDKIXW_7t)
