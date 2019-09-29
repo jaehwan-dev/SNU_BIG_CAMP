@@ -2,7 +2,8 @@
 
 ## 2주차 강의 자료
 ### 월요일 강의 (Advanced Python)
-- [Advanced Python](https://github.com/jaehwan-dev/SNU_BIG_CAMP/raw/master/pdfs/190923_Intro.pdf)
+- [Advanced Python(키노트)](https://github.com/jaehwan-dev/SNU_BIG_CAMP/raw/master/pdfs/190923_Intro.pdf)
+- [Advanced Python(Google Colab)](https://colab.research.google.com/drive/1TVRhzcAkUH-rZ9YRhs-nFKXfpXQBpK1T)
 
 ### 화요일 강의 (데이터베이스)
 - [파이썬에서의 데이터베이스 활용](https://colab.research.google.com/drive/1xvw_RO-dqzOIKxdr7JbjBf7mXCAgb6oY)
@@ -23,6 +24,6 @@
 
 ### 금요일 강의 (그래프 그리기)
 - [데이터 시각화(Google Colab)](https://colab.research.google.com/drive/1UFSnNbH3hfJAR-Rstx-DjlQEBAa43pgX)
-- [데이터 시각화(Google Colab-답안](https://drive.google.com/open?id=1JU9HCiLsLVtWVs76pkxMUlbW1yTHsRE_)
+- [데이터 시각화(Google Colab-답안)](https://colab.research.google.com/drive/1JU9HCiLsLVtWVs76pkxMUlbW1yTHsRE_)
 - [데이터 시각화(키노트)](https://github.com/jaehwan-dev/SNU_BIG_CAMP/raw/master/pdfs/190927_matplotlib.pdf)
 
