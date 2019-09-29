@@ -1,12 +1,6 @@
 # SNU Big Camp 2019
 
-### 금요일 강의 (그래프 그리기)
-- [데이터 시각화(Google Colab)](https://colab.research.google.com/drive/1UFSnNbH3hfJAR-Rstx-DjlQEBAa43pgX)
-- [데이터 시각화(키노트)](https://github.com/jaehwan-dev/SNU_BIG_CAMP/raw/master/pdfs/190927_matplotlib.pdf)
-
----
-## 지난 강의 자료
-
+## 2주차 강의 자료
 ### 월요일 강의 (Advanced Python)
 - [Advanced Python](https://github.com/jaehwan-dev/SNU_BIG_CAMP/raw/master/pdfs/190923_Intro.pdf)
 
@@ -26,3 +20,9 @@
 - [Pandas 튜토리얼 - 3. 데이터 선택 및 조작하기-답안](https://colab.research.google.com/drive/1hnrhmqzHQJmNfyfjLT4fMvPKdiCfEBUb)
 - [Pandas 튜토리얼 - Lab1-답안](https://colab.research.google.com/drive/1a8IkjE-FgcFT_pX6LK0Q5H9ahIesJGCQ)
 - [Pandas 튜토리얼 - Lab2 : 데이터 전처리,탐색,분석-답안](https://colab.research.google.com/drive/1g-ILVZiR4Wiahx9vzr4iN0ZhExhC_UUu)
+
+### 금요일 강의 (그래프 그리기)
+- [데이터 시각화(Google Colab)](https://colab.research.google.com/drive/1UFSnNbH3hfJAR-Rstx-DjlQEBAa43pgX)
+- [데이터 시각화(Google Colab-답안](https://drive.google.com/open?id=1JU9HCiLsLVtWVs76pkxMUlbW1yTHsRE_)
+- [데이터 시각화(키노트)](https://github.com/jaehwan-dev/SNU_BIG_CAMP/raw/master/pdfs/190927_matplotlib.pdf)
+
